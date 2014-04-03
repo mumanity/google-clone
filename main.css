@@ -80,9 +80,12 @@ div .class{
 }
 
 .logo img {
-	text-align: center;
-	clear: left;
-	margin: 130px 220px 0px 393px;
+	position: absolute;
+	top: 150px;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
 	height: 85px;
 }
 
